@@ -2,11 +2,17 @@ What it does:
 
 
 • Enlarges the default Wild Imp count on the Implosion icon to make it easier to read in combat
+
 • Adds a green ready frame to supported cooldowns when they are ready to use
+
 • For Implosion, the frame only turns green when the spell is off cooldown and the addon estimates that you have 6 or more Wild Imps available for an optimal cast
+
 • Adds ready borders to important Demonology cooldowns
+
 • Tracks Call Dreadstalkers, Power Siphon, Grimoire, Summon Demonic Tyrant, and Summon Doomguard
+
 • Adds a Hand of Gul'dan cast counter over the Tyrant icon during your Tyrant setup window
+
 • Includes /wit options with per-icon settings, so you can disable any overlay you do not want
 
 
