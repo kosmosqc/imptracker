@@ -1,4 +1,5 @@
 What it does:
+<img width="564" height="276" alt="Capture d’écran 2026-04-13 153736" src="https://github.com/user-attachments/assets/bfc25f5b-eff6-46a6-861d-8a4dbb1856fb" />
 
 
 • Enlarges the default Wild Imp count on the Implosion icon to make it easier to read in combat
