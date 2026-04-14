@@ -36,3 +36,4 @@ Notes:
     Wild Imp behavior is estimated locally for combat safety
     Cooldown tracking starts after the first successful cast of each tracked spell
     Best suited for players who want compact rotational support without turning their UI into a full aura suite
+<img width="536" height="144" alt="Capture d’écran 2026-04-13 170609" src="https://github.com/user-attachments/assets/231128ca-c704-4f43-8973-fdfb53cb1074" />
